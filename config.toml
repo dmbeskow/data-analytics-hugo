@@ -41,7 +41,7 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Carnegie Mellon University", url = "http://www.cmu.edu/" }, { name = "United States Army", url = "www.goarmy.com/" }]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait.JPG"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "dnbeskow@gmail.com"
   address = "Wean Hall, Room 4113, Carnegie Mellon University, Pittsburgh, PA 15213, USA"
   office_hours = "Flexible"
