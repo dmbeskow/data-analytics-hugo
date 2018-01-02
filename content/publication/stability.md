@@ -23,7 +23,7 @@ url = ""
 # Optional featured image (relative to `static/img/` folder).
 [header]
 image = "headers/GDELT_InternationalRelations.png"
-caption = "#"
+caption = ""
 
 +++
 
