@@ -3,17 +3,17 @@
 date = "2016-04-27"
 
 # Project title.
-title = "Deep Learning"
+title = "Twitter Bot Detection"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Creating Machine Learning Workflows that Detect Autonomous Agents on Twitter"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "bubbles.jpg"
+image_preview = "bot.jpg"
 
 # Tags: can be used for filtering projects.
-# Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["deep-learning"]
+# Example: `tags = ["bot-detection", "machine-learning"]`
+tags = ["machine-learning"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "bot.jpg"
+caption = "Understanding Twitter Bots"
 
 +++
 
