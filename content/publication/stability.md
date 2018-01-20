@@ -11,9 +11,9 @@ selected = true
 title = "Data Collection, Fusion, and Visualization for Decision Making in Stability Operations"
 url_code = ""
 url_dataset = "https://www.gdeltproject.org/"
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = "https://clever-borg-c5529a.netlify.com/pdf/stabilityISERC_final1.pdf"
 url_project = ""
-url_slides = "#"
+url_slides = ""
 url_video = ""
 
 [[url_custom]]
