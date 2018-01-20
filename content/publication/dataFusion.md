@@ -9,12 +9,12 @@ publication = "In *Systems Conference, 2015 9th Annual IEEE International*"
 publication_short = "In *SysCon*"
 selected = true
 title = "Data Fusion for Regionally Aligned Forces"
-url_code = "#"
-url_dataset = "#"
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_code = ""
+url_dataset = ""
+url_pdf = "https://clever-borg-c5529a.netlify.com/pdf/IEEEVancouverFinal.pdf"
 url_project = ""
-url_slides = "#"
-url_video = "#"
+url_slides = ""
+url_video = ""
 
 [[url_custom]]
 name = "Custom Link"
