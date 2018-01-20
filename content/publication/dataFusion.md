@@ -16,9 +16,9 @@ url_project = ""
 url_slides = ""
 url_video = ""
 
-[[url_custom]]
-name = "Custom Link"
-url = "http://www.example.org"
+# [[url_custom]]
+# name = "Custom Link"
+# url = "http://www.example.org"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
