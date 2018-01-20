@@ -140,15 +140,6 @@
     
     <url>
     
-      <loc>/publication/tigr/</loc>
-      <lastmod>2014-04-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/migrate-from-jekyll/</loc>
       <lastmod>2014-03-10T00:00:00-04:00</lastmod>
     </url>
@@ -160,6 +151,15 @@
     
       <loc>/publication/electrical_barchi/</loc>
       <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/tigr/</loc>
+      <lastmod>2011-06-01T00:00:00+00:00</lastmod>
     </url>
     
   
